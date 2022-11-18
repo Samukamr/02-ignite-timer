@@ -6,7 +6,7 @@
 e depois tira um tempo de descanso.
 
 - nessa aplicação o usuário vai basicamente escrever com qual tarefa ele vai trabalhar, e 
-por quanto tempo, ai o Timer vai começar a rodar a partir disso.
+por quanto tempo, aí o Timer vai começar a rodar a partir disso.
 
 - o usuário também consegue interromper o Timer, e pode ver o histórico de todos os ciclos
 que ele já realizou, se ele foi concluído, se foi interrompido ou se ainda está em andamento.
