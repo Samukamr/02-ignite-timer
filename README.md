@@ -1,4 +1,4 @@
-- Criando SPAs com ReactJS
+- Criando SPAs com ReactJS e TypeScript
 
 - Aplicação de Pomodoro!
 
